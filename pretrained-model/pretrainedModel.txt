@@ -1,2 +1,4 @@
 Link to download pretrained model
 https://drive.google.com/open?id=188TN-wKmrLoRu0oxCsyPNxxRfGHvzM1g
+
+--- download and add it to pretrained-model folder
